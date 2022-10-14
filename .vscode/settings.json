@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "html.format.wrapLineLength": 80,
+    "editor.wrappingIndent": "same",
+    "html.format.wrapAttributes": "auto"
+}
